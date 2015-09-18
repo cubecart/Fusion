@@ -36,7 +36,7 @@ class Number implements Module
 		if (isset($attributes['description'])) $this->description = $attributes['description'];
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		return $this->value;
 	}

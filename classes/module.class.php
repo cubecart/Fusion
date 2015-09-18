@@ -39,5 +39,5 @@ interface Module
 	 * The skin then takes some action depending on the value
 	 * returned.
 	 */
-	public function yield();
+	public function sd_yield();
 }

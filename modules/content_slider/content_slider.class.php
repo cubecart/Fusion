@@ -32,7 +32,7 @@ class Content_Slider implements Module
 		$this->setSlides();
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		$slides = array();
 

@@ -52,7 +52,7 @@ class Textbox implements Module
 		return true;
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		return $this->value;
 	}

@@ -417,7 +417,7 @@ class Fusion extends Configuration
 			$moduleName = strtolower(trim($moduleName));
 			$moduleData = $this->getSetting($settingName);
 			$module = new $moduleName($moduleData, $this->getConfigSetting($settingName));
-			return $module->yield();
+			return $module->sd_yield();
 		}
 	}
 

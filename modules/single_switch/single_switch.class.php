@@ -56,7 +56,7 @@ class Single_Switch implements Module
 		return true;
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		if ($this->value == 'on') return true;
 		return false;

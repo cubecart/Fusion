@@ -63,7 +63,7 @@ class Image_Slider implements Module
 		}
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		return ($this->enabled) ? $this->slides : array();
 	}

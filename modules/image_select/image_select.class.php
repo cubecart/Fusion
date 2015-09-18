@@ -66,7 +66,7 @@ class Image_Select implements Module
 		return "Please select an image from the list for {$this->title}";
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		if ($this->value != '')
 		{

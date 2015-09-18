@@ -29,7 +29,7 @@ class Export_Settings implements Module
 		if (isset($attributes['description'])) $this->description = $attributes['description'];
 	}
 
-	public function yield() // Not used
+	public function sd_yield() // Not used
 	{
 		return $this->value;
 	}

@@ -38,7 +38,7 @@ class Page_Layout implements Module
 		if (isset($attributes['default']) && self::parse_boolean($attributes['default'])) $this->default = true;
 	}
 
-	public function yield()
+	public function sd_yield()
 	{
 		$template = $this->value['template'];
 		$regions = $this->value[$template];
