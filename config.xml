@@ -6,9 +6,9 @@
 		<folder>Fusion</folder>
 		<name><![CDATA[Fusion Framework]]></name>
 		<description><![CDATA[Fusion Framework powers the best CubeCart V5 themes.]]></description>
-		<version>2.2</version>
+		<version>2.5</version>
 		<minVersion>5.0.5</minVersion>
-		<maxVersion>5.1.*</maxVersion>
+		<maxVersion>6.*.*</maxVersion>
 		<creator><![CDATA[ShopDev]]></creator>
 		<homepage><![CDATA[http://www.shopdev.co.uk]]></homepage>
 	</info>
