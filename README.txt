@@ -50,6 +50,10 @@
  = Changelog =
  =============
 
+ = Version 2.5 =
+
+ Addd PHP >= 5.5 compatibility.
+
  = Version 2.4 =
 
  Removed license validation and verification.
