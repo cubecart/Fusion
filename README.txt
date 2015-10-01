@@ -11,7 +11,7 @@
  = Compatibility =
  =================
 
- Fusion is compatible with CubeCart V5.
+ Fusion is compatible with CubeCart V5 & V6.
 
  ================
  = Requirements =
