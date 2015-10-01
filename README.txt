@@ -35,7 +35,7 @@
  We would like to acknowledge the following authors whose work has been used
  in creating the Fusion Framework:
 
- - Devellion (http://www.cubecart.com)
+ - CubeCart Limited (http://www.cubecart.com)
  - jQuery (http://jquery.com)
  - Fabrizio Balliano, Kevin Dalman (http://layout.jquery-dev.net)
  - Jason Frame (http://onehackoranother.com)
